@@ -1,0 +1,6 @@
+gkey = "AIzaSyDEszkK5tHRJBve7HVQFqr2nROoWJO-V7w"
+consumer_key = "1GQF8ZGa9jIDlgu8re1PuAX96"
+consumer_secret = "sRrnI0ZCPw8fHMRmvZUT3OCAdR4KFwDzCAJi0slXips01eWtVp"
+access_token = "979128767544283136-wi2eMJOJhuhBtoeFilknkj1FtoubMp0"
+access_token_secret = "aUxtGDrGcE0Neap4RwqyUeQuh8xq6Qz8djzs4mEXgdDWC"
+api_key = "7024b31d48990ee20b063c59ef315042"
