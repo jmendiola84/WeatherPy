@@ -168,21 +168,21 @@ print(str(len(name))+ " cities were processed.")
     Beginning Data Retrieval
     -----------------------------
     Processing Record 1 | Kirakira
-    http://api.openweathermap.org/data/2.5/weather?appid=7024b31d48990ee20b063c59ef315042&units=metric&q=&q=Kirakira
+    http://api.openweathermap.org/data/2.5/weather?appid={api_key}&units=metric&q=&q=Kirakira
     Processing Record 2 | Alice Springs
-    http://api.openweathermap.org/data/2.5/weather?appid=7024b31d48990ee20b063c59ef315042&units=metric&q=&q=Alice%20Springs
+    http://api.openweathermap.org/data/2.5/weather?appid={api_key}&units=metric&q=&q=Alice%20Springs
     Processing Record 3 | Matamoros
-    http://api.openweathermap.org/data/2.5/weather?appid=7024b31d48990ee20b063c59ef315042&units=metric&q=&q=Matamoros
+    http://api.openweathermap.org/data/2.5/weather?appid={api_key}&units=metric&q=&q=Matamoros
     Processing Record 4 | Chernyshevskiy
-    http://api.openweathermap.org/data/2.5/weather?appid=7024b31d48990ee20b063c59ef315042&units=metric&q=&q=Chernyshevskiy
+    http://api.openweathermap.org/data/2.5/weather?appid={api_key}&units=metric&q=&q=Chernyshevskiy
     Processing Record 5 | Tessalit
-    http://api.openweathermap.org/data/2.5/weather?appid=7024b31d48990ee20b063c59ef315042&units=metric&q=&q=Tessalit
+    http://api.openweathermap.org/data/2.5/weather?appid={api_key}&units=metric&q=&q=Tessalit
     Processing Record 6 | Walla Walla
-    http://api.openweathermap.org/data/2.5/weather?appid=7024b31d48990ee20b063c59ef315042&units=metric&q=&q=Walla%20Walla
+    http://api.openweathermap.org/data/2.5/weather?appid={api_key}&units=metric&q=&q=Walla%20Walla
     Processing Record 7 | Mookane
-    http://api.openweathermap.org/data/2.5/weather?appid=7024b31d48990ee20b063c59ef315042&units=metric&q=&q=Mookane
+    http://api.openweathermap.org/data/2.5/weather?appid={api_key}&units=metric&q=&q=Mookane
     Processing Record 8 | Alyangula
-    http://api.openweathermap.org/data/2.5/weather?appid=7024b31d48990ee20b063c59ef315042&units=metric&q=&q=Alyangula
+    http://api.openweathermap.org/data/2.5/weather?appid={api_key}&units=metric&q=&q=Alyangula
     Processing Record 9 | Lata
     http://api.openweathermap.org/data/2.5/weather?appid=7024b31d48990ee20b063c59ef315042&units=metric&q=&q=Lata
     Processing Record 10 | Dandong
